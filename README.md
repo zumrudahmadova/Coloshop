@@ -4,7 +4,8 @@
 - Customizable CSS styles
 - Easy-to-use navigation menu
 
-Usage
+##Usage
+
 1.Download the IDE: If you don't already have an Integrated Development Environment (IDE) installed, download and install one. Popular choices include Visual Studio Code, Sublime Text, or Atom. Make sure it supports HTML, CSS, and Bootstrap development.
 
 2.Clone The Repository: Use Git to clone this repository to your local machine. Open your terminal or Git client and run the following command: 
